@@ -1,0 +1,12 @@
+{
+    "name": "com.been.infra",
+    "version": "0.1.0",
+    "displayName": "INFRA",
+    "description": "Framework for Unity Engine",
+    "unity": "2021.3",
+    "author":
+    {
+      "name": "been",
+      "email": "daniluna111@gmail.com"
+    }
+  }
